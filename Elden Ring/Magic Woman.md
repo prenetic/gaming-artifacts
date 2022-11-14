@@ -27,29 +27,42 @@ Arcane|??
 
 ### Staff
 
-- [Azur's Glintstone Staff](https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Staff)
-  - Location:
-  - Reduces casting time of all sorceries, but consumes additional 20%, rounded down, FP.
-  - Increases casting speed of sorceries and incantations by 10%. However, each spell and incantation is affected by casting-speed increases by a different amount due to differences in casting animations, so roughly 8-9% is a better estimate on average.
+- [Carian Regal Scepter](https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter)
+  - Location:Obtained when unlocking the Remembrance of The Full Moon Queen's power by handing it over to Enia at Roundtable Hold.
+  - The second-most powerful staff, and the most powerful non-fp-cost-increasing staff, for players with 69 intelligence or above.
 
 - [Lusat's Glintstone Staff](https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Staff)
   - Location: Sellia, Town of Sorcery: Found in a chest north of the Nox Swordstress & Nox Priest boss duo's chamber after defeating them.
   - Enhances power of all sorceries, but consumes additional 50% FP.
   - No increase to sorcery damage outside of innate sorcery scaling
 
-- [Albinauric Staff](https://eldenring.wiki.fextralife.com/Albinauric+Staff)
-  - Location: Volcano Manor near the Guest Hall grace. Head left from the bonfire, then left again, taking the stairs to the next floor. Head outside and take the ladder to your left onto the roof. Head south to the back of the roof and jump off the west side onto a ledge.
-  - This Staff has Sorcery Scaling 373 at +25 while at 80 Arcane and 80 Intelligence.
+- [Carian Glintstone Staff](https://eldenring.wiki.fextralife.com/Carian+Glintstone+Staff)
+  - Location: Located on a corpse in Carian Study Hall right before the second lift in Liurnia of the Lakes
+  - You receive the boost to Sword Sorceries even if you are wielding it in your off-hand while not meeting the requirements for it, making it great for dual-wielding staffs.
 
 ## Spells
+- [Starlight](https://eldenring.wiki.fextralife.com/Starlight)
+  - Location: Starlight can be learned from Thops at the Church of Irith for runes currency elden ring wiki guide 18 2500 Runes
+  - Duration: 180 seconds
+- [Terra Magica]([link](https://eldenring.wiki.fextralife.com/Terra+Magica))
+  - Location: Requires completion of the Academy Crystal Cave dungeon and taking the elevator behind the Crystalians bosses. This leads to a tower inside the academy, on the top of which a chest containing the spell can be found
+  - Creates a spherical zone centered on a sigil, giving you a magic buff, increasing magic damage from any source by 35%, lasting 30 seconds. Must be within the spell radius when damage is dealt to receive the buff.
+- [Loretta's Greatbow](https://eldenring.wiki.fextralife.com/Loretta's+Greatbow)
+  - Location: Caria Manor, Dropped by Royal Knight Loretta upon defeat.
+  - If fully charged, it does roughly 22% more damage.
+- [Adula's Moonblade](https://eldenring.wiki.fextralife.com/Adula's+Moonblade)
+  - Location: Dropped by the Glintstone Dragon Adula located at the Cathedral of Manus Celes
+  - Considered a Carian Sword Sorcery and a Cold Sorcery
+- [Carian Slicer](https://eldenring.wiki.fextralife.com/Carian+Slicer)
+  - Location: After giving the Royal House Scroll to Miriel Pastor of Vows the spell can be purchased for runes currency elden ring wiki guide 18 1,500 Runes.
+  - Has the highest magic damage per FP ratio out of all spells.
+- [Cannon of Haima](https://eldenring.wiki.fextralife.com/Cannon+of+Haima)
+  - Location: Can be found in the chest at the top of the Converted Fringe Tower in the northeast of the Liurnia of the Lakes region
+  - When charged, deals (Sorcery Scaling x 3.12) magic damage.
+- [Gavel of Haima](https://eldenring.wiki.fextralife.com/Gavel+of+Haima)
+  - Location: Can be found in the chest at the top of the Converted Fringe Tower in the Liurnia of the Lakes region.
+  - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
 
-- [name qty](link)
-  - notes
-
-### Melee
-
-- [name qty](link)
-  - notes
 
 ## Armor
 
@@ -101,16 +114,6 @@ Arcane|??
 - [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
   - Location: Found in a chest in Hidden Path to the Haligtree. In the large central room, there is a broken section of railing. There, you can drop down to an invisible platform, and walk to a small room. The chest is past an Illusory Wall
   - Silver Scarab raises Item Discovery by 75.
-
-## Spells
-- [name qty](link)
-  - notes
-
-### Typical
-- None
-
-### Alternatives
-- None
 
 ## Critical Items
 
