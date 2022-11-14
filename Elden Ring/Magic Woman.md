@@ -64,20 +64,6 @@ Arcane|??
   - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
 
 
-## Armor
-
-- [name qty](link)
-  - notes
-
-
-
-
-
-## Ashes of War
-
-- [name qty](link)
-  - notes
-
 ## Talismans
 
 ### Primary
@@ -114,6 +100,23 @@ Arcane|??
 - [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
   - Location: Found in a chest in Hidden Path to the Haligtree. In the large central room, there is a broken section of railing. There, you can drop down to an invisible platform, and walk to a small room. The chest is past an Illusory Wall
   - Silver Scarab raises Item Discovery by 75.
+- [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
+  - Location: Found on a body lying at the top of the Divine Tower of Liurnia
+  - Raises Intelligence by 5.
+- [Dragoncrest Greatshield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Greatshield+Talisman)
+  - Location: Elphael, Brace of the Haligtree: Found in a chest on an elevated platform inside the large building in the northeast, guarded by several Pests. 
+  - Reduces Physical Damage taken by 20%
+- [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
+  - Location: Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
+  - Ritual Sword Talisman raises attack power by 10% when HP is at maximum
+- [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
+  - Location: Base variant, Bestial Sanctum: Found on the bottom level of the structure below the surrounding cliffs.
+  - Location: +1 variant, Sainted Hero's Grave: Can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
+  - Location: +2 variant, Crumbling Farum Azula: Looted from a corpse on floating chunk of debris in the northern section, between Dragon Temple Lift and Dragon Temple Rooftop.
+  - Reduces Physical Damage taken 10/13/17%
+- [Ritual Sword Talisman](https://eldenring.wiki.fextralife.com/Ritual+Sword+Talisman)
+  - Location: Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
+  - Ritual Sword Talisman raises attack power by 10% when HP is at maximum.
 
 ## Critical Items
 
