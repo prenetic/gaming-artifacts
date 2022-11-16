@@ -2,7 +2,8 @@
 
 ## Basis
 
-- [name](link)
+- [Melee Mage](https://www.youtube.com/watch?v=NXQXAGWjyh4)
+- [Astrologer](https://www.youtube.com/watch?v=ISLC9b7YLsg&)
 
 *notes*
 
@@ -11,16 +12,18 @@
 
 Name|Value
 -|-
-Vigor|40
-Mind|60
-Endurance|30
+Vigor|50,60
+Mind|40,60
+Endurance|20,30
 Strength|10
 Dexterity|12
-Intelligence| 26,52
+Intelligence|26,52,80
 Faith|base
 Arcane|base
 
-*soft cap Mind, Vigor, Endurance.  Focus on Intelligence.
+*soft cap Mind, Vigor.  
+*Focus on Intelligence.  
+*Endurance should be in line for mid rolls.
 
 
 ## Weapons / Gear
