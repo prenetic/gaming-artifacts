@@ -11,16 +11,16 @@
 
 Name|Value
 -|-
-Vigor|??
-Mind|??
-Endurance|??
-Strength|??
-Dexterity|??
-Intelligence|??
-Faith|??
-Arcane|??
+Vigor|40
+Mind|60
+Endurance|30
+Strength|10
+Dexterity|12
+Intelligence| 26,52
+Faith|base
+Arcane|base
 
-*notes*
+*soft cap Mind, Vigor, Endurance.  Focus on Intelligence.
 
 
 ## Weapons / Gear
@@ -41,10 +41,10 @@ Arcane|??
   - You receive the boost to Sword Sorceries even if you are wielding it in your off-hand while not meeting the requirements for it, making it great for dual-wielding staffs.
 
 ## Spells
-- [Starlight](https://eldenring.wiki.fextralife.com/Starlight)
+- :heavy_check_mark: [Starlight](https://eldenring.wiki.fextralife.com/Starlight)
   - Location: Starlight can be learned from Thops at the Church of Irith for runes currency elden ring wiki guide 18 2500 Runes
   - Duration: 180 seconds
-- [Terra Magica]([link](https://eldenring.wiki.fextralife.com/Terra+Magica))
+- [Terra Magica](https://eldenring.wiki.fextralife.com/Terra+Magica)
   - Location: Requires completion of the Academy Crystal Cave dungeon and taking the elevator behind the Crystalians bosses. This leads to a tower inside the academy, on the top of which a chest containing the spell can be found
   - Creates a spherical zone centered on a sigil, giving you a magic buff, increasing magic damage from any source by 35%, lasting 30 seconds. Must be within the spell radius when damage is dealt to receive the buff.
 - [Loretta's Greatbow](https://eldenring.wiki.fextralife.com/Loretta's+Greatbow)
@@ -144,7 +144,7 @@ Arcane|??
 
 - Royal House Scroll  
   - Head southeast from the Agheel Lake South site of grace, head to the top of a cliff and you'll see a statue of an object that looks like the half piece of a bowl or a circle. Face the other way, to see a Knight. Keep going to a structure to see a man standing watching over the big structure, alongside a dead body with the scroll.
-- Academy Scroll
+- :heavy_check_mark: Academy Scroll
   - Found in the graveyard just by the starting Site of Grace of Liurnia of the Lakes, Lake-Facing Cliffs. Guarded by several Skeletons.
 - Conspectus Scroll
   - Can be found near the Great Hall of the Raya Lucaria Academy. From the doorway, go left and you'll find a room, there is a body that you can loot to find the scroll. 
