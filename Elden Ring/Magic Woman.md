@@ -50,6 +50,9 @@ Arcane|base
 - [Loretta's Greatbow](https://eldenring.wiki.fextralife.com/Loretta's+Greatbow)
   - Location: Caria Manor, Dropped by Royal Knight Loretta upon defeat.
   - If fully charged, it does roughly 22% more damage.
+- [Carian Greatsword](https://eldenring.wiki.fextralife.com/Carian+Greatsword)
+  - Location: Can be purchased from Miriel, Pastor of Vows at the Church of Vows for runes currency elden ring wiki guide 18 10,000 Runes.
+  - Considered a Carian Sword Sorcery and a Cold Sorcery
 - [Adula's Moonblade](https://eldenring.wiki.fextralife.com/Adula's+Moonblade)
   - Location: Dropped by the Glintstone Dragon Adula located at the Cathedral of Manus Celes
   - Considered a Carian Sword Sorcery and a Cold Sorcery
@@ -87,7 +90,7 @@ Arcane|base
 
 - [Cerulean Seed Talisman](https://eldenring.wiki.fextralife.com/Cerulean+Seed+Talisman)
   - Location: It can be found in the rafters of the Carian Study Hall, next to a body.
-  - erulean Seed Talisman boosts FP restoration from Flask of Cerulean Tears by 20%.
+  - Cerulean Seed Talisman boosts FP restoration from Flask of Cerulean Tears by 20%.
 - [Graven-School Talisman](https://eldenring.wiki.fextralife.com/Graven-School+Talisman)
   - Location: At Raya Lucaria Academy, from the Debate Parlor site of grace, head west and turn right before going down the stairs. You should see an empty bookshelf in front of you. Hit it to dispel the illusory wall, then follow the path. Go up the ladder (after picking up Comet from the chest and the Stonesword Key from behind the altar), head east, jump over the railing, and drop down through a hole. Drop down once more to find yourself in a room with many Living Jars; the talisman is next to the crystals. The door to the right leads back to the room below the one you started in, containing multiple Raya Lucaria Sorcerers and a Giant Living Jar.
   - Graven-School Talisman raises the potency of Sorceries by 4%.
