@@ -4,9 +4,12 @@
 
 - [Melee Mage](https://www.youtube.com/watch?v=NXQXAGWjyh4)
 - [Astrologer](https://www.youtube.com/watch?v=ISLC9b7YLsg&)
+- [Spellblade (Early Game)](https://www.youtube.com/watch?v=OCDBjAPCepw)
+- [Spellblade (Late Game)](https://www.youtube.com/watch?v=ng6NTaP4fPs)
+- [Prisoner](https://www.youtube.com/watch?v=k3TFfIzbN8I)
+- [ALL Sorcery Spells in Elden Ring](https://www.youtube.com/watch?v=gqSzUthyrsU)
 
-*notes*
-
+- This build will be a mixture of melee and long range magical spells, mostly the Carian Glintstone schools and the Carian Weapon Spells.  Dagger is for buffing range spells with Determination.  Stay out of melee expect when pushed, then switch to Slicer/Greatsword or a cheeky back stab/counter if able.
 
 ## Attributes
 
@@ -21,10 +24,9 @@ Intelligence|26,52,80
 Faith|base
 Arcane|base
 
-*soft cap Mind, Vigor.  
+*soft cap Mind, Vigor.  (40's or so)
 *Focus on Intelligence.  
 *Endurance should be in line for mid rolls.
-
 
 ## Weapons / Gear
 
@@ -33,12 +35,10 @@ Arcane|base
 - [Carian Regal Scepter](https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter)
   - Location:Obtained when unlocking the Remembrance of The Full Moon Queen's power by handing it over to Enia at Roundtable Hold.
   - The second-most powerful staff, and the most powerful non-fp-cost-increasing staff, for players with 69 intelligence or above.
-
 - [Lusat's Glintstone Staff](https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Staff)
   - Location: Sellia, Town of Sorcery: Found in a chest north of the Nox Swordstress & Nox Priest boss duo's chamber after defeating them.
   - Enhances power of all sorceries, but consumes additional 50% FP.
   - No increase to sorcery damage outside of innate sorcery scaling
-
 - [Carian Glintstone Staff](https://eldenring.wiki.fextralife.com/Carian+Glintstone+Staff)
   - Location: Located on a corpse in Carian Study Hall right before the second lift in Liurnia of the Lakes
   - You receive the boost to Sword Sorceries even if you are wielding it in your off-hand while not meeting the requirements for it, making it great for dual-wielding staffs.
@@ -68,7 +68,6 @@ Arcane|base
 - [Gavel of Haima](https://eldenring.wiki.fextralife.com/Gavel+of+Haima)
   - Location: Can be found in the chest at the top of the Converted Fringe Tower in the Liurnia of the Lakes region.
   - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
-
 
 ## Weapons
 
@@ -171,10 +170,9 @@ Arcane|base
 ### Scrolls
 
 - Give all scrolls to Miriel, Paster of Vows, as he does not move from his position at the Church of Vows, and you may give him both Sorcery scrolls and Incantation Prayerbooks. 
-
-- Royal House Scroll  
+- [Royal House Scroll](https://eldenring.wiki.fextralife.com/Royal+House+Scroll)
   - Head southeast from the Agheel Lake South site of grace, head to the top of a cliff and you'll see a statue of an object that looks like the half piece of a bowl or a circle. Face the other way, to see a Knight. Keep going to a structure to see a man standing watching over the big structure, alongside a dead body with the scroll.
-- :heavy_check_mark: Academy Scroll
+- :heavy_check_mark: [Academy Scroll](https://eldenring.wiki.fextralife.com/Academy+Scroll)
   - Found in the graveyard just by the starting Site of Grace of Liurnia of the Lakes, Lake-Facing Cliffs. Guarded by several Skeletons.
-- Conspectus Scroll
+- [Conspectus Scroll](https://eldenring.wiki.fextralife.com/Conspectus+Scroll)
   - Can be found near the Great Hall of the Raya Lucaria Academy. From the doorway, go left and you'll find a room, there is a body that you can loot to find the scroll. 
