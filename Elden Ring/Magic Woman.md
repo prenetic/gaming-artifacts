@@ -9,7 +9,10 @@
 - [Prisoner](https://www.youtube.com/watch?v=k3TFfIzbN8I)
 - [ALL Sorcery Spells in Elden Ring](https://www.youtube.com/watch?v=gqSzUthyrsU)
 
-- This build will be a mixture of melee and long range magical spells, mostly the Carian Glintstone schools and the Carian Weapon Spells.  Dagger is for buffing range spells with Determination.  Stay out of melee expect when pushed, then switch to Slicer/Greatsword or a cheeky back stab/counter if able.
+- This build will be a mixture of melee and long range magical spells, mostly the Carian Glintstone schools and the Carian Weapon Spells.  
+- Dagger is for buffing range spells with Determination.
+- Ranged spells are big hitters by and large.  
+- Stay out of melee expect when pushed, then switch to Slicer/Greatsword or a cheeky back stab/counter if able.
 
 ## Attributes
 
@@ -24,9 +27,9 @@ Intelligence|26,52,80
 Faith|base
 Arcane|base
 
-*soft cap Mind, Vigor.  (40's or so)
-*Focus on Intelligence.  
-*Endurance should be in line for mid rolls.
+*soft cap Mind (55/60), Vigor (40/60).
+*Focus on Intelligence (20/50/80)
+*Endurance (15/30/50) should be in line for mid rolls.
 
 ## Weapons / Gear
 
@@ -112,35 +115,15 @@ Arcane|base
 
 ### Secondary
 
-- [Cerulean Seed Talisman](https://eldenring.wiki.fextralife.com/Cerulean+Seed+Talisman)
-  - Location: It can be found in the rafters of the Carian Study Hall, next to a body.
-  - Cerulean Seed Talisman boosts FP restoration from Flask of Cerulean Tears by 20%.
 - [Graven-School Talisman](https://eldenring.wiki.fextralife.com/Graven-School+Talisman)
   - Location: At Raya Lucaria Academy, from the Debate Parlor site of grace, head west and turn right before going down the stairs. You should see an empty bookshelf in front of you. Hit it to dispel the illusory wall, then follow the path. Go up the ladder (after picking up Comet from the chest and the Stonesword Key from behind the altar), head east, jump over the railing, and drop down through a hole. Drop down once more to find yourself in a room with many Living Jars; the talisman is next to the crystals. The door to the right leads back to the room below the one you started in, containing multiple Raya Lucaria Sorcerers and a Giant Living Jar.
   - Graven-School Talisman raises the potency of Sorceries by 4%.
 - [Graven-Mass Talisman](https://eldenring.wiki.fextralife.com/Graven-Mass+Talisman)
   - Location: Found in a chest atop Albinauric Rise, in the east of the Consecrated Snowfield.  Bring either Fanged Imp Ashes, Bewitching Branch, or use some Crystal Darts to solve the Albinauric Rise puzzle, which requires imps to fight each other.
   - Graven-Mass Talisman raises the potency of Sorceries by 8%.
-- [Gold Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab)
-  - Dropped by the Cleanrot Knight (Sickle) & Cleanrot Knight (Spear) dual boss found in the Abandoned Cave. It can be accessed by going east from the Smoldering Wall Site of Grace, and walking across the canyon by using tree branches.
-  - Gold Scarab increases Rune acquisition by 20%.
-- [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
-  - Location: Found in a chest in Hidden Path to the Haligtree. In the large central room, there is a broken section of railing. There, you can drop down to an invisible platform, and walk to a small room. The chest is past an Illusory Wall
-  - Silver Scarab raises Item Discovery by 75.
 - [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
   - Location: Found on a body lying at the top of the Divine Tower of Liurnia
   - Raises Intelligence by 5.
-- [Dragoncrest Greatshield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Greatshield+Talisman)
-  - Location: Elphael, Brace of the Haligtree: Found in a chest on an elevated platform inside the large building in the northeast, guarded by several Pests. 
-  - Reduces Physical Damage taken by 20%
-- [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
-  - Location: Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
-  - Ritual Sword Talisman raises attack power by 10% when HP is at maximum
-- [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
-  - Location: Base variant, Bestial Sanctum: Found on the bottom level of the structure below the surrounding cliffs.
-  - Location: +1 variant, Sainted Hero's Grave: Can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
-  - Location: +2 variant, Crumbling Farum Azula: Looted from a corpse on floating chunk of debris in the northern section, between Dragon Temple Lift and Dragon Temple Rooftop.
-  - Reduces Physical Damage taken 10/13/17%
 - [Ritual Sword Talisman](https://eldenring.wiki.fextralife.com/Ritual+Sword+Talisman)
   - Location: Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
   - Ritual Sword Talisman raises attack power by 10% when HP is at maximum.
@@ -148,29 +131,48 @@ Arcane|base
   - Location: Summonwater Village. In an underground area on the eastern outskirts of the village. Entering the area requires a Stonesword Key
   - Raises Stamina recovery speed by 8 per second (17.7%)
 
+### Tertiary
+- [Cerulean Seed Talisman](https://eldenring.wiki.fextralife.com/Cerulean+Seed+Talisman)
+  - Location: It can be found in the rafters of the Carian Study Hall, next to a body.
+  - Cerulean Seed Talisman boosts FP restoration from Flask of Cerulean Tears by 20%.
+- [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
+  - Location: Base variant, Bestial Sanctum: Found on the bottom level of the structure below the surrounding cliffs.
+  - Location: +1 variant, Sainted Hero's Grave: Can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
+  - Location: +2 variant, Crumbling Farum Azula: Looted from a corpse on floating chunk of debris in the northern section, between Dragon Temple Lift and Dragon Temple Rooftop.
+  - Reduces Physical Damage taken 10/13/17%
+- [Dragoncrest Greatshield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Greatshield+Talisman)
+  - Location: Elphael, Brace of the Haligtree: Found in a chest on an elevated platform inside the large building in the northeast, guarded by several Pests. 
+  - Reduces Physical Damage taken by 20%
+- [Gold Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab)
+  - Dropped by the Cleanrot Knight (Sickle) & Cleanrot Knight (Spear) dual boss found in the Abandoned Cave. It can be accessed by going east from the Smoldering Wall Site of Grace, and walking across the canyon by using tree branches.
+  - Gold Scarab increases Rune acquisition by 20%.
+- [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
+  - Location: Found in a chest in Hidden Path to the Haligtree. In the large central room, there is a broken section of railing. There, you can drop down to an invisible platform, and walk to a small room. The chest is past an Illusory Wall
+  - Silver Scarab raises Item Discovery by 75.
+
 ## Critical Items
 
 ### Memory Stones (Skull Icon)
 
 - Where to find:
   - Found in a chest at the top of Oridys's Rise in Weeping Peninsula. 
-    - Note: Oridys's Rise involves a challenge before the tower can be accessed. See the Oridys's Rise page for details.
+    - Note: Oridys's Rise involves a challenge before the tower can be accessed. See the [Oridys's Rise](https://eldenring.wiki.fextralife.com/Oridys's+Rise) page for details.
   - Found in a chest on the top floor of the Converted Tower in western Liurnia of the Lakes. 
-    - Note: Converted Tower involves a challenge before the tower can be accessed. See the Converted Tower page for details.
+    - Note: Converted Tower involves a challenge before the tower can be accessed. See the [Converted Tower](https://eldenring.wiki.fextralife.com/Converted+Tower) page for details.
   - Dropped by the Red Wolf of Radagon at Raya Lucaria Academy. 
   - Found in a chest at the top floor of Testu's Rise in northern Liurnia of the Lakes.
-     - Note: Testu's Rise involves a challenge before the tower can be accessed. See the Testu's Rise page for details.
+     - Note: Testu's Rise involves a challenge before the tower can be accessed. See the [Testu's Rise](https://eldenring.wiki.fextralife.com/Testu's+Rise) page for details.
   - Found in a chest on the top floor of Seluvis's Rise in the Three Sisters sub-region.
   - Dropped by Demi-Human Queen Maggie, an optional boss in the northeast of Hermit Village in Mt. Gelmir. 
   - Found in a chest at the top floor of Lenne's Rise in eastern Caelid. 
     - Note: Entering Lenne's Rise requires jumping onto the open balcony from the Spiritspring south of the tower.
 
 - Where to purchase:
-  - :heavy_check_mark: Purchasable from Twin Maiden Husks at the Roundtable Hold for runes currency elden ring wiki guide 18 3,000 Runes.
+  - :heavy_check_mark: Purchasable from Twin Maiden Husks at the Roundtable Hold for 3,000 Runes.
 
 ### Scrolls (Banner Icon)
 
-- Give all scrolls to Miriel, Paster of Vows, as he does not move from his position at the Church of Vows, and you may give him both Sorcery scrolls and Incantation Prayerbooks. 
+- Give all scrolls to [Miriel, Paster of Vows](https://eldenring.wiki.fextralife.com/Miriel+Pastor+of+Vows), as he does not move from his position at the Church of Vows, and you may give him both Sorcery scrolls and Incantation Prayerbooks. 
 - [Royal House Scroll](https://eldenring.wiki.fextralife.com/Royal+House+Scroll)
   - Head southeast from the Agheel Lake South site of grace, head to the top of a cliff and you'll see a statue of an object that looks like the half piece of a bowl or a circle. Face the other way, to see a Knight. Keep going to a structure to see a man standing watching over the big structure, alongside a dead body with the scroll.
 - :heavy_check_mark: [Academy Scroll](https://eldenring.wiki.fextralife.com/Academy+Scroll)
