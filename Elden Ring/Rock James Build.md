@@ -26,12 +26,8 @@ Arcane|9
 
 ### Melee
 
-- [Cross-Naginata](https://eldenring.wiki.fextralife.com/Cross-Naginata)
-  - Gael Tunnel: Found on a corpse inside a cavern with a Giant Land Octopus hanging from the ceiling.
-- [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba)
-  - Dropped by Bloody Finger Hunter Yura to the north of Murkwater Cave or in his camp near Seaside Ruins Site of Grace.
-  - Can also be obtained by completing Bloody Finger Hunter Yura's questline at the Second Church of Marika allowing you to also obtain Eleonora's Poleblade and Purifying Crystal Tear.
-  - If killed by the Zamor Ruins site of grace, you can loot the Ronin Armor set from him and the weapon will be found in his usual spot just north of Murkwater Cave or it can be found south of the Dragon Burnt Ruins under the broken structure.
+- [Greatsword](https://eldenring.wiki.fextralife.com/Greatsword) scales primarily with Strength and is a good Weapon for cleaving many foes at once with its wide swings.
+  - Found in Caelid, Dragonbarrow. North-west to the Caelem Ruins Site of Grace, inside the chest in the back of the Carriage guarded by Giant Dogs.
 
 ### Ranged
 
@@ -42,13 +38,9 @@ Arcane|9
 
 ## Ashes of War
 
-- [Phantom Slash](https://eldenring.wiki.fextralife.com/Ash+of+War:+Phantom+Slash)
-  - Dropped by a Night's Cavalry northeast the Forbidden Lands Grace in the Forbidden Lands. Elden Ring Map Link.
-- [Double Slash](https://eldenring.wiki.fextralife.com/Double+Slash)
-  - Ash of War: Double Slash - Found in Sellia, Town of Sorcery: Dropped by a Teardrop Scarab found high above on a very large root in the western end of town. Accessible by jumping across the rooftops.
-  - Default skill for the Serpentbone Blade.
-- [Sword Dance](https://eldenring.wiki.fextralife.com/Ash+of+War:+Sword+Dance)
-  - Dropped by a Teardrop Scarab found near the Minor Erdtree in southwest Liurnia, below the cliffs leading to a path where several jellyfish are located.
+- [War Cry](https://eldenring.wiki.fextralife.com/Ash+of+War:+War+Cry) provides Heavy affinity and the War Cry Skill. Give a war cry to rally the spirit and increase attack power. While active, strong attacks change to charging attacks.
+  - Sold by Knight Bernahl at the Warmaster's Shack for 800 runes.
+  - Can be purchased from Twin Maiden Husks at the Roundtable Hold after giving them Bernahl's Bell Bearing.
 
 ## Armor
 
@@ -56,20 +48,18 @@ Arcane|9
   - Dropped by killing one of the three Nameless White Mask NPC invaders in the Mohgwyn Dynasty Mausoleum area, northwest of the Palace Approach Ledge-Road site of grace, in the blood-filled lake. The one that drops it can be found adjacent to the Giant Crow enemy near the lake exit from the tunnel.
   - Killing Mohg, Lord of Blood will lock you out of obtaining this set.
 
-*Any set so long as you can still perform medium rolls.*
+*Heavy armor preferred to achieve high levels of poise.*
 
 ## Talismans
 
 ### Typical
 
-- [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
-  - +1 Variant: Sainted Hero's Grave: Can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
-- [Godfrey Icon](https://eldenring.wiki.fextralife.com/Godfrey+Icon)
-  - Drops from Godefroy the Grafted, found in Golden Lineage Evergaol.
-- [Radagon's Soreseal](https://eldenring.wiki.fextralife.com/Radagon's+Soreseal)
-  - Fort Faroth: Found on a corpse by dropping down the opening from the roof and exploring around the wooden walkways.
-- [Shard of Alexander](https://eldenring.wiki.fextralife.com/Shard+of+Alexander)
-  - Drops from Iron Fist Alexander after completing his questline.
+- [Axe Talisman](https://eldenring.wiki.fextralife.com/Axe+Talisman) increases charged attack damage by 10%.
+  - Found in a cellar underneath the Mistwood Ruins.
+- [Roar Medallion](https://eldenring.wiki.fextralife.com/Roar+Medallion) increases the damage of roars and breath attacks by 15%.
+  - Dropped by the Stonedigger Troll, located in the Limgrave Tunnels. He is found at the end of the dungeon.
+- [Green Turtle Talisman](https://eldenring.wiki.fextralife.com/Green+Turtle+Talisman) raises Stamina recovery speed by 8 per second (17.7%).
+  - Summonwater Village. In an underground area on the eastern outskirts of the village. Entering the area requires a Stonesword Key.
 
 ### Alternatives
 
