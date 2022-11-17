@@ -3,10 +3,15 @@
 ## Basis
 
 [Melee Mage](https://www.youtube.com/watch?v=NXQXAGWjyh4)
+
 [Astrologer](https://www.youtube.com/watch?v=ISLC9b7YLsg&)
+
 [Spellblade (Early Game)](https://www.youtube.com/watch?v=OCDBjAPCepw)
+
 [Spellblade (Late Game)](https://www.youtube.com/watch?v=ng6NTaP4fPs)
+
 [Prisoner](https://www.youtube.com/watch?v=k3TFfIzbN8I)
+
 [ALL Sorcery Spells in Elden Ring](https://www.youtube.com/watch?v=gqSzUthyrsU)
 
 - This build will be a mixture of melee and long range magical spells, mostly the Carian Glintstone schools and the Carian Weapon Spells.  
