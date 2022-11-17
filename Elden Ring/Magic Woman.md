@@ -30,7 +30,7 @@ Arcane|base
 
 ## Weapons / Gear
 
-### Staff
+### Staff (Weapon Icon)
 
 - [Carian Regal Scepter](https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter)
   - Location:Obtained when unlocking the Remembrance of The Full Moon Queen's power by handing it over to Enia at Roundtable Hold.
@@ -43,7 +43,8 @@ Arcane|base
   - Location: Located on a corpse in Carian Study Hall right before the second lift in Liurnia of the Lakes
   - You receive the boost to Sword Sorceries even if you are wielding it in your off-hand while not meeting the requirements for it, making it great for dual-wielding staffs.
 
-## Spells
+## Spells (Weapon Icon)
+
 - :heavy_check_mark: [Starlight](https://eldenring.wiki.fextralife.com/Starlight)
   - Location: Starlight can be learned from Thops at the Church of Irith for runes currency elden ring wiki guide 18 2500 Runes
   - Duration: 180 seconds
@@ -69,19 +70,19 @@ Arcane|base
   - Location: Can be found in the chest at the top of the Converted Fringe Tower in the Liurnia of the Lakes region.
   - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
 
-## Weapons
+## Weapons (Weapon Icon)
 
   - :heavy_check_mark: [Miséricorde](https://eldenring.wiki.fextralife.com/Misericorde)
     - Location: Can be looted off a corpse that can be found in the large armory room, next to the fortress of the Grafted Scion.
     - The Miséricorde has the highest critical stat of all weapons in the game, at 140.
 
-## Ash of War
+## Ash of War (Weapon Icon)
 
   - [Determination](https://eldenring.wiki.fextralife.com/Ash+of+War:+Determination)
     - Location: Dropped by a Teardrop Scarab on the path at the bridge north of Agheel Lake.
     - Buff the main hand, 10 seconds of 60% increase sourcery damage.  Use it for ranged.
 
-## Armor
+## Armor (Weapon Icon)
 
   - [Queen's Crescent Crown](https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown)
     - Location: Upon vanquishing Rennala, Queen of the Full Moon the Queen's Crescent Crown Helm becomes available for purchase at Enia in Roundtable Hold for runes currency elden ring wiki guide 18 7,000.
@@ -90,7 +91,7 @@ Arcane|base
     - Location: Roundtable Hold - Drops from Rogier.
     - Increases Intelligence by 3.
 
-## Talismans
+## Talismans (Chest Icon)
 
 ### Primary
 
@@ -149,7 +150,7 @@ Arcane|base
 
 ## Critical Items
 
-### Memory Stones
+### Memory Stones (Skull Icon)
 
 - Where to find:
   - Found in a chest at the top of Oridys's Rise in Weeping Peninsula. 
@@ -167,7 +168,7 @@ Arcane|base
 - Where to purchase:
   - :heavy_check_mark: Purchasable from Twin Maiden Husks at the Roundtable Hold for runes currency elden ring wiki guide 18 3,000 Runes.
 
-### Scrolls
+### Scrolls (Banner Icon)
 
 - Give all scrolls to Miriel, Paster of Vows, as he does not move from his position at the Church of Vows, and you may give him both Sorcery scrolls and Incantation Prayerbooks. 
 - [Royal House Scroll](https://eldenring.wiki.fextralife.com/Royal+House+Scroll)
