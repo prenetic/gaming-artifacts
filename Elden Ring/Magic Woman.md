@@ -70,6 +70,27 @@ Arcane|base
   - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
 
 
+## Weapons
+
+  - :heavy_check_mark: [Miséricorde](https://eldenring.wiki.fextralife.com/Misericorde)
+    - Location: Can be looted off a corpse that can be found in the large armory room, next to the fortress of the Grafted Scion.
+    - The Miséricorde has the highest critical stat of all weapons in the game, at 140.
+
+## Ash of War
+
+  - [Determination](https://eldenring.wiki.fextralife.com/Ash+of+War:+Determination)
+    - Location: Dropped by a Teardrop Scarab on the path at the bridge north of Agheel Lake.
+    - Buff the main hand, 10 seconds of 60% increase sourcery damage.  Use it for ranged.
+
+## Armor
+
+  - [Queen's Crescent Crown](https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown)
+    - Location: Upon vanquishing Rennala, Queen of the Full Moon the Queen's Crescent Crown Helm becomes available for purchase at Enia in Roundtable Hold for runes currency elden ring wiki guide 18 7,000.
+    - Buff the main hand, 10 seconds of 60% increase sourcery damage.  Use it for ranged.
+  - [Spellblade's Gloves](https://eldenring.wiki.fextralife.com/Spellblade's+Gloves)
+    - Location: Roundtable Hold - Drops from Rogier.
+    - Increases Intelligence by 3.
+
 ## Talismans
 
 ### Primary
@@ -85,7 +106,7 @@ Arcane|base
     - Magic Scorpion Charm increases Magic Damage by 12%, but increases Physical Damage taken by 10%.
   - [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
     - Base Location: Base Talisman: Lakeside Crystal Cave: After defeating the Bloodhound Knight
-    - +1 Location: Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos. [Map link]
+    - +1 Location: Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
     - +2 Location: Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs
     - Cerulean Amber Medallion raises maximum FP by 7, 9, or 11% based off the variant.
 
@@ -123,6 +144,9 @@ Arcane|base
 - [Ritual Sword Talisman](https://eldenring.wiki.fextralife.com/Ritual+Sword+Talisman)
   - Location: Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
   - Ritual Sword Talisman raises attack power by 10% when HP is at maximum.
+- [Green Turtle Talisman](https://eldenring.wiki.fextralife.com/Green+Turtle+Talisman)
+  - Location: Summonwater Village. In an underground area on the eastern outskirts of the village. Entering the area requires a Stonesword Key
+  - Raises Stamina recovery speed by 8 per second (17.7%)
 
 ## Critical Items
 
