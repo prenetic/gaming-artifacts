@@ -42,7 +42,7 @@ Arcane|base
 
 ### Staff (Weapon Icon)
 
-- [Carian Regal Scepter](https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter)
+- :heavy_check_mark: [Carian Regal Scepter](https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter)
   - **Location:** Obtained when unlocking the Remembrance of The Full Moon Queen's power by handing it over to Enia at Roundtable Hold.
   - The second-most powerful staff, and the most powerful non-fp-cost-increasing staff, for players with 69 intelligence or above.
 - [Lusat's Glintstone Staff](https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Staff)
@@ -61,7 +61,7 @@ Arcane|base
 - :heavy_check_mark: [Terra Magica](https://eldenring.wiki.fextralife.com/Terra+Magica)
   - **Location:** Requires completion of the Academy Crystal Cave dungeon and taking the elevator behind the Crystalians bosses. This leads to a tower inside the academy, on the top of which a chest containing the spell can be found
   - Creates a spherical zone centered on a sigil, giving you a magic buff, increasing magic damage from any source by 35%, lasting 30 seconds. Must be within the spell radius when damage is dealt to receive the buff.
-- [Loretta's Greatbow](https://eldenring.wiki.fextralife.com/Loretta's+Greatbow)
+- :heavy_check_mark: [Loretta's Greatbow](https://eldenring.wiki.fextralife.com/Loretta's+Greatbow)
   - **Location:** Caria Manor, Dropped by Royal Knight Loretta upon defeat.
   - If fully charged, it does roughly 22% more damage.
 - :heavy_check_mark: [Carian Greatsword](https://eldenring.wiki.fextralife.com/Carian+Greatsword)
@@ -73,11 +73,11 @@ Arcane|base
 - :heavy_check_mark: [Carian Slicer](https://eldenring.wiki.fextralife.com/Carian+Slicer)
   - **Location:** After giving the Royal House Scroll to Miriel Pastor of Vows the spell can be purchased for runes currency elden ring wiki guide 18 1,500 Runes.
   - Has the highest magic damage per FP ratio out of all spells.
-- [Cannon of Haima](https://eldenring.wiki.fextralife.com/Cannon+of+Haima)
+- :heavy_check_mark: [Cannon of Haima](https://eldenring.wiki.fextralife.com/Cannon+of+Haima)
   - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the northeast of the Liurnia of the Lakes region
     - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
   - When charged, deals (Sorcery Scaling x 3.12) magic damage.
-- [Gavel of Haima](https://eldenring.wiki.fextralife.com/Gavel+of+Haima)
+- :heavy_check_mark: [Gavel of Haima](https://eldenring.wiki.fextralife.com/Gavel+of+Haima)
   - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the Liurnia of the Lakes region.
     - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
   - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
@@ -96,7 +96,7 @@ Arcane|base
 
 ## Armor (Weapon Icon)
 
-  - [Queen's Crescent Crown](https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown)
+  - :heavy_check_mark: [Queen's Crescent Crown](https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown)
     - **Location:** Upon vanquishing Rennala, Queen of the Full Moon the Queen's Crescent Crown Helm becomes available for purchase at Enia in Roundtable Hold for runes currency elden ring wiki guide 18 7,000.
     - Buff the main hand, 10 seconds of 60% increase sourcery damage.  Use it for ranged.
   - [Spellblade's Gloves](https://eldenring.wiki.fextralife.com/Spellblade's+Gloves)
@@ -124,7 +124,7 @@ Arcane|base
 
 ### Secondary
 
-- [Graven-School Talisman](https://eldenring.wiki.fextralife.com/Graven-School+Talisman)
+- :heavy_check_mark: [Graven-School Talisman](https://eldenring.wiki.fextralife.com/Graven-School+Talisman)
   - **Location:** At Raya Lucaria Academy, from the Debate Parlor site of grace, head west and turn right before going down the stairs. You should see an empty bookshelf in front of you. Hit it to dispel the illusory wall, then follow the path. Go up the ladder (after picking up Comet from the chest and the Stonesword Key from behind the altar), head east, jump over the railing, and drop down through a hole. Drop down once more to find yourself in a room with many Living Jars; the talisman is next to the crystals. The door to the right leads back to the room below the one you started in, containing multiple Raya Lucaria Sorcerers and a Giant Living Jar.
   - Graven-School Talisman raises the potency of Sorceries by 4%.
 - [Graven-Mass Talisman](https://eldenring.wiki.fextralife.com/Graven-Mass+Talisman)
@@ -173,7 +173,7 @@ Arcane|base
      - **Note:** _Testu's Rise involves a challenge before the tower can be accessed. See the [Testu's Rise](https://eldenring.wiki.fextralife.com/Testu's+Rise) page for details._
   - Found in a chest on the top floor of Seluvis's Rise in the Three Sisters sub-region.
   - Dropped by Demi-Human Queen Maggie, an optional boss in the northeast of Hermit Village in Mt. Gelmir. 
-  - Found in a chest at the top floor of Lenne's Rise in eastern Caelid. 
+  - :heavy_check_mark: Found in a chest at the top floor of Lenne's Rise in eastern Caelid. 
     - **Note:** _Entering Lenne's Rise requires jumping onto the open balcony from the Spiritspring south of the tower._
 
 - **Where to purchase:**
