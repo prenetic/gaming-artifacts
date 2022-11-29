@@ -55,6 +55,15 @@ Arcane|base
 
 ## Spells (Weapon Icon)
 
+
+- :heavy_check_mark: [Glintstone Pebble](https://eldenring.wiki.fextralife.com/Glintstone+Pebble)
+  - **Location:** Provided as part of the Astrologer class.
+  - Early to mid game mana-efficent spell.  To be replaced by Glintstone Comentshard.
+- [Glintstone Cometshard](https://eldenring.wiki.fextralife.com/Glintstone+Cometshard)
+  - **Location:** The spell can be purchased for 12,000 Runes after you deliver the Conspectus Scroll to Miriel Pastor of Vows
+- [Carian Piercer](https://eldenring.wiki.fextralife.com/Carian+Piercer)
+  - **Location:** Caria Manor, dropped by a Teardrop Scarab in an area behind the gardens, to the east.
+  - Considered a Carian Sword Sorcery.
 - :heavy_check_mark: [Starlight](https://eldenring.wiki.fextralife.com/Starlight)
   - **Location:** Starlight can be learned from Thops at the Church of Irith for runes currency elden ring wiki guide 18 2500 Runes
   - **Duration:** 180 seconds
@@ -66,7 +75,7 @@ Arcane|base
   - If fully charged, it does roughly 22% more damage.
 - :heavy_check_mark: [Carian Greatsword](https://eldenring.wiki.fextralife.com/Carian+Greatsword)
   - **Location:** Can be purchased from Miriel, Pastor of Vows at the Church of Vows for runes currency elden ring wiki guide 18 10,000 Runes.
-  - Considered a Carian Sword Sorcery and a Cold Sorcery
+  - Considered a Carian Sword Sorcery.
 - [Adula's Moonblade](https://eldenring.wiki.fextralife.com/Adula's+Moonblade)
   - **Location:** Dropped by the Glintstone Dragon Adula located at the Cathedral of Manus Celes
   - Considered a Carian Sword Sorcery and a Cold Sorcery
@@ -107,29 +116,28 @@ Arcane|base
 
 ### Primary
 
-  - [Moon of Nokstella](https://eldenring.wiki.fextralife.com/Moon+of+Nokstella)
-    - **Location:** In a chest underneath a massive throne in Nokstella, Eternal City.  
-    - The chest is in the highest room of the city, guarded by two mimic tears and a Nox warrior.
-  - [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
-    - **Location:** Raya Lucaria Academy, the talisman is inside a treasure chest on the second floor near the Debate Parlor Site of Grace. From the Site of Grace, head north into the courtyard.  Make two hard rights, hugging the building's wall, and then jump over the fence -- you should see a ladder in front of you. Climb up the ladder and head through the broken glass window. The treasure chest is in the north section
-    - Gives 30 virtual Dexterity, exclusively towards spellcasting.
-  - [Magic Scorpion Charm](https://eldenring.wiki.fextralife.com/Magic+Scorpion+Charm)
-    - **Location:** Obtained by giving Preceptor Seluvis the Amber Starlight after Seluvis tells you about his scheme.  Cannot be obtained after Seluvius' death (which occurs when the Fingerslayer Blade is given to Ranni the Witch)
-    - Magic Scorpion Charm increases Magic Damage by 12%, but increases Physical Damage taken by 10%.
-  - [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
-    - :heavy_check_mark: **Base Location:** Base Talisman: Lakeside Crystal Cave: After defeating the Bloodhound Knight
-    - **+1 Location:** Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
-    - **+2 Location:** Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs
-    - Cerulean Amber Medallion raises maximum FP by 7, 9, or 11% based off the variant.
-
-### Secondary
-
+ - [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
+  - **Location:** Raya Lucaria Academy, the talisman is inside a treasure chest on the second floor near the Debate Parlor Site of Grace. From the Site of Grace, head north into the courtyard.  Make two hard rights, hugging the building's wall, and then jump over the fence -- you should see a ladder in front of you. Climb up the ladder and head through the broken glass window. The treasure chest is in the north section
+  - Gives 30 virtual Dexterity, exclusively towards spellcasting.
+ - [Magic Scorpion Charm](https://eldenring.wiki.fextralife.com/Magic+Scorpion+Charm)
+  - **Location:** Obtained by giving Preceptor Seluvis the Amber Starlight after Seluvis tells you about his scheme.  Cannot be obtained after Seluvius' death (which occurs when the Fingerslayer Blade is given to Ranni the Witch)
+  - Magic Scorpion Charm increases Magic Damage by 12%, but increases Physical Damage taken by 10%.
 - :heavy_check_mark: [Graven-School Talisman](https://eldenring.wiki.fextralife.com/Graven-School+Talisman)
   - **Location:** At Raya Lucaria Academy, from the Debate Parlor site of grace, head west and turn right before going down the stairs. You should see an empty bookshelf in front of you. Hit it to dispel the illusory wall, then follow the path. Go up the ladder (after picking up Comet from the chest and the Stonesword Key from behind the altar), head east, jump over the railing, and drop down through a hole. Drop down once more to find yourself in a room with many Living Jars; the talisman is next to the crystals. The door to the right leads back to the room below the one you started in, containing multiple Raya Lucaria Sorcerers and a Giant Living Jar.
   - Graven-School Talisman raises the potency of Sorceries by 4%.
+  - To be replaced by Graven-Mass Talisman
 - [Graven-Mass Talisman](https://eldenring.wiki.fextralife.com/Graven-Mass+Talisman)
   - **Location:** Found in a chest atop Albinauric Rise, in the east of the Consecrated Snowfield.  Bring either Fanged Imp Ashes, Bewitching Branch, or use some Crystal Darts to solve the Albinauric Rise puzzle, which requires imps to fight each other.
   - Graven-Mass Talisman raises the potency of Sorceries by 8%.
+  - To replace Graven-School Talisman
+
+### Secondary
+
+ - [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
+  - :heavy_check_mark: **Base Location:** Base Talisman: Lakeside Crystal Cave: After defeating the Bloodhound Knight
+  - **+1 Location:** Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
+  - **+2 Location:** Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs
+  - Cerulean Amber Medallion raises maximum FP by 7, 9, or 11% based off the variant.
 - [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
   - **Location:** Found on a body lying at the top of the Divine Tower of Liurnia
   - Raises Intelligence by 5.
