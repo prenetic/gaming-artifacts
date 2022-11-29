@@ -88,7 +88,7 @@ Arcane|base
     - **Location:** Can be looted off a corpse that can be found in the large armory room, next to the fortress of the Grafted Scion.
     - The Miséricorde has the highest critical stat of all weapons in the game, at 140.
 
-## :heavy_check_mark: Ash of War (Weapon Icon)
+## :heavy_check_mark: Ash of War (Weapon Icon) 
 
   - :heavy_check_mark: [Determination](https://eldenring.wiki.fextralife.com/Ash+of+War:+Determination)
     - **Location:** Dropped by a Teardrop Scarab on the path at the bridge north of Agheel Lake.
