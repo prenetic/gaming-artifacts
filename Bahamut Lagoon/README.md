@@ -83,6 +83,11 @@ Dance|Mini-Devil|Mind
 
 ## Items
 
+- The *Book Shop* becomes available after Chapter 2 and can be forced after Chapter 7.
+- The *Mushroom Shop* becomes available after Chapter 6.
+- The *Matelite Shop* become available upon completion of Chapter 7.
+- The *Porno Shop* is only available in Chapter 18.
+- Shop availability can be forced by completing a side quest or losing a battle so long as the chapter requirement is satisfied.
 - *Flame Vest* will cause fire damage to heal you, including burning terrain.
 
 ## Secret Characters
