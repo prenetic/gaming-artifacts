@@ -136,12 +136,12 @@ Arcane|base
 
 ### Primary
 
- - :heavy_check_mark: [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
-   - **Location:** Raya Lucaria Academy, the talisman is inside a treasure chest on the second floor near the Debate Parlor Site of Grace. From the Site of Grace, head north into the courtyard.  Make two hard rights, hugging the building's wall, and then jump over the fence -- you should see a ladder in front of you. Climb up the ladder and head through the broken glass window. The treasure chest is in the north section.
-   - Gives 30 virtual Dexterity, exclusively towards spellcasting.
- - [Magic Scorpion Charm](https://eldenring.wiki.fextralife.com/Magic+Scorpion+Charm)
-   - **Location:** Obtained by giving Preceptor Seluvis the Amber Starlight after Seluvis tells you about his scheme.  Cannot be obtained after Seluvius' death (which occurs when the Fingerslayer Blade is given to Ranni the Witch)
-   - Magic Scorpion Charm increases Magic Damage by 12%, but increases Physical Damage taken by 10%.
+- :heavy_check_mark: [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
+  - **Location:** Raya Lucaria Academy, the talisman is inside a treasure chest on the second floor near the Debate Parlor Site of Grace. From the Site of Grace, head north into the courtyard.  Make two hard rights, hugging the building's wall, and then jump over the fence -- you should see a ladder in front of you. Climb up the ladder and head through the broken glass window. The treasure chest is in the north section.
+  - Gives 30 virtual Dexterity, exclusively towards spellcasting.
+- :heavy_check_mark: [Ritual Sword Talisman](https://eldenring.wiki.fextralife.com/Ritual+Sword+Talisman)
+  - **Location:** Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
+  - Ritual Sword Talisman raises attack power by 10% when HP is at maximum.
 - :heavy_check_mark: [Graven-School Talisman](https://eldenring.wiki.fextralife.com/Graven-School+Talisman)
   - **Location:** At Raya Lucaria Academy, from the Debate Parlor site of grace, head west and turn right before going down the stairs. You should see an empty bookshelf in front of you. Hit it to dispel the illusory wall, then follow the path. Go up the ladder (after picking up Comet from the chest and the Stonesword Key from behind the altar), head east, jump over the railing, and drop down through a hole. Drop down once more to find yourself in a room with many Living Jars; the talisman is next to the crystals. The door to the right leads back to the room below the one you started in, containing multiple Raya Lucaria Sorcerers and a Giant Living Jar.
   - Graven-School Talisman raises the potency of Sorceries by 4%.
@@ -153,17 +153,14 @@ Arcane|base
 
 ### Secondary
 
- - [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
+ - :o: [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
    - :heavy_check_mark: **Base Location:** Base Talisman: Lakeside Crystal Cave: After defeating the Bloodhound Knight
    - **+1 Location:** Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
    - **+2 Location:** Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs.
    - Cerulean Amber Medallion raises maximum FP by 7, 9, or 11% based off the variant.
-- [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
+- :heavy_check_mark: [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
   - **Location:** Found on a body lying at the top of the Divine Tower of Liurnia.
   - Raises Intelligence by 5.
-- [Ritual Sword Talisman](https://eldenring.wiki.fextralife.com/Ritual+Sword+Talisman)
-  - **Location:** Located in Lux Ruins, in a chest after defeating the boss, Demi-Human Queen Gilika.
-  - Ritual Sword Talisman raises attack power by 10% when HP is at maximum.
 - :heavy_check_mark: [Green Turtle Talisman](https://eldenring.wiki.fextralife.com/Green+Turtle+Talisman)
   - **Location:** Summonwater Village. In an underground area on the eastern outskirts of the village. Entering the area requires a Stonesword Key.
   - Raises Stamina recovery speed by 8 per second (17.7%).
@@ -180,12 +177,17 @@ Arcane|base
 - [Dragoncrest Greatshield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Greatshield+Talisman)
   - **Location:** Elphael, Brace of the Haligtree, found in a chest on an elevated platform inside the large building in the northeast, guarded by several Pests. 
   - Reduces Physical Damage taken by 20%.
-- [Gold Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab)
+- :heavy_check_mark: [Gold Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab)
   - **Location:** Dropped by the Cleanrot Knight (Sickle) & Cleanrot Knight (Spear) dual boss found in the Abandoned Cave. It can be accessed by going east from the Smoldering Wall Site of Grace, and walking across the canyon by using tree branches.
   - Gold Scarab increases Rune acquisition by 20%.
 - [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
   - **Location:** Found in a chest in Hidden Path to the Haligtree. In the large central room, there is a broken section of railing. There, you can drop down to an invisible platform, and walk to a small room. The chest is past an Illusory Wall
   - Silver Scarab raises Item Discovery by 75.
+- :no_entry: [Magic Scorpion Charm](https://eldenring.wiki.fextralife.com/Magic+Scorpion+Charm)
+  - **Location:** Obtained by giving Preceptor Seluvis the Amber Starlight after Seluvis tells you about his scheme.  Cannot be obtained after Seluvius' death (which occurs when the Fingerslayer Blade is given to Ranni the Witch)
+  - Magic Scorpion Charm increases Magic Damage by 12%, but increases Physical Damage taken by 10%.
+  - Failed to acquire before Seluvis' death.
+
 
 ## Critical Items
 
@@ -199,7 +201,7 @@ Arcane|base
   - :heavy_check_mark: Dropped by the Red Wolf of Radagon at Raya Lucaria Academy. 
   - :heavy_check_mark: Found in a chest at the top floor of Testu's Rise in northern Liurnia of the Lakes.
      - **Note:** _Testu's Rise involves a challenge before the tower can be accessed. See the [Testu's Rise](https://eldenring.wiki.fextralife.com/Testu's+Rise) page for details._
-  - Found in a chest on the top floor of Seluvis's Rise in the Three Sisters sub-region.
+  - :heavy_check_mark: Found in a chest on the top floor of Seluvis's Rise in the Three Sisters sub-region.
   - Dropped by Demi-Human Queen Maggie, an optional boss in the northeast of Hermit Village in Mt. Gelmir. 
   - :heavy_check_mark: Found in a chest at the top floor of Lenne's Rise in eastern Caelid. 
     - **Note:** _Entering Lenne's Rise requires jumping onto the open balcony from the Spiritspring south of the tower._
