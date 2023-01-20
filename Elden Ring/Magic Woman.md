@@ -123,12 +123,12 @@ Arcane|base
     - Deals 25 Poise Damage on hit, 30 when fully charged.
     - Is outperformed by Carian Greatsword in terms of damage if Carian Grandeur is only charged once, but charges more quickly, making it easier to use.
 
-## Armor (Weapon Icon)
+## :heavy_check_mark: Armor (Weapon Icon)
 
   - :heavy_check_mark: [Queen's Crescent Crown](https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown)
     - **Location:** Upon vanquishing Rennala, Queen of the Full Moon the Queen's Crescent Crown Helm becomes available for purchase at Enia in Roundtable Hold for runes currency elden ring wiki guide 18 7,000.
     - Buff the main hand, 10 seconds of 60% increase sourcery damage.  Use it for ranged.
-  - [Spellblade's Gloves](https://eldenring.wiki.fextralife.com/Spellblade's+Gloves)
+  - :heavy_check_mark: [Spellblade's Gloves](https://eldenring.wiki.fextralife.com/Spellblade's+Gloves)
     - **Location:** Roundtable Hold - Drops from Rogier.
     - Increases Intelligence by 3.
 
@@ -191,7 +191,7 @@ Arcane|base
 
 ## Critical Items
 
-### Memory Stones (Skull Icon)
+### :heavy_check_mark: Memory Stones (Skull Icon)
 
 - **Where to find:**
   - :heavy_check_mark: Found in a chest at the top of Oridys's Rise in Weeping Peninsula. 
@@ -202,7 +202,7 @@ Arcane|base
   - :heavy_check_mark: Found in a chest at the top floor of Testu's Rise in northern Liurnia of the Lakes.
      - **Note:** _Testu's Rise involves a challenge before the tower can be accessed. See the [Testu's Rise](https://eldenring.wiki.fextralife.com/Testu's+Rise) page for details._
   - :heavy_check_mark: Found in a chest on the top floor of Seluvis's Rise in the Three Sisters sub-region.
-  - Dropped by Demi-Human Queen Maggie, an optional boss in the northeast of Hermit Village in Mt. Gelmir. 
+  - :heavy_check_mark: Dropped by Demi-Human Queen Maggie, an optional boss in the northeast of Hermit Village in Mt. Gelmir. 
   - :heavy_check_mark: Found in a chest at the top floor of Lenne's Rise in eastern Caelid. 
     - **Note:** _Entering Lenne's Rise requires jumping onto the open balcony from the Spiritspring south of the tower._
 
