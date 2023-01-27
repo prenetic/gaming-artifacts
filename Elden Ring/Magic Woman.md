@@ -218,3 +218,24 @@ Arcane|base
   - **Location:** Found in the graveyard just by the starting Site of Grace of Liurnia of the Lakes, Lake-Facing Cliffs. Guarded by several Skeletons.
 - :heavy_check_mark: [Conspectus Scroll](https://eldenring.wiki.fextralife.com/Conspectus+Scroll)
   - **Location:** Great Hall of the Raya Lucaria Academy. From the doorway, go left and you'll find a room, there is a body that you can loot to find the scroll. 
+
+### Wondrous Physick
+
+- :heavy_check_mark: [Magic-Shrouding Cracked Tear](https://eldenring.wiki.fextralife.com/Magic-Shrouding+Cracked+Tear)
+  - **Location:**  Dropped by Erdtree Avatar in Minor Erdtree (Liurnia Northeast) in Northeastern Liurnia of the Lakes, east of the Mausoleum Compound Site of Grace.
+  - Increases magic attacks by +20% for three minutes.
+- [Cerulean Hidden Tear](https://eldenring.wiki.fextralife.com/Cerulean+Hidden+Tear)
+  - **Location:** Drops from the Ulcerated Tree Spirit at the Minor Erdtree, east of the Road of Iniquity, Mt. Gelmir, site of grace.
+  - FP is not consumed by any actions that normally consume FP for 15 seconds
+- :heavy_check_mark: [Opaline Hardtear](https://eldenring.wiki.fextralife.com/Opaline+Hardtear)
+  - **Location:** Dropped by Putrid Avatar next to the Minor Erdtree north of Fort Faroth in Caelid.
+  - Increases all damage negation types by 15% for three minutes
+- :heavy_check_mark: [Intelligence-knot Crystal Tear](https://eldenring.wiki.fextralife.com/Intelligence-knot+Crystal+Tear)
+  - **Location:** From Road to the Manor Site of Grace, get to the bottom of the cliff (directly East) and follow the cliff's wall North. Guarded by a few Lesser Fingercreepers and one Fingercreeper.
+  - Provides three minutes of +10 Intelligence.
+
+### :heavy_check_mark: Ashes
+
+- :heavy_check_mark: [Mimic's Tear](https://eldenring.wiki.fextralife.com/Mimic+Tear+Ashes)
+  - **Location:** Found in a chest locked behind an imp statue door in Night's Sacred Ground, Nokron, Eternal City.
+  - info
