@@ -31,12 +31,12 @@ Name|Value
 -|-
 Vigor|50,60
 Mind|40,60
-Endurance|20,30
-Strength|10
-Dexterity|12
-Intelligence|26,52,80
-Faith|base
-Arcane|base
+Endurance|20,30,60
+:heavy_check_mark:Strength|10
+:heavy_check_mark:Dexterity|12
+:heavy_check_mark:Intelligence|26,52,80
+:heavy_check_mark:Faith|base
+:heavy_check_mark:Arcane|base
 
 - **Soft Caps** Mind (55/60), Vigor (40/60), Intelligence (20/50/80), Endurance (15/30/50).
 - Focus on increasing Mind and Intelligence as needed.
@@ -93,6 +93,11 @@ Arcane|base
   - **Location:** Caria Manor, Dropped by Royal Knight Loretta upon defeat.
   - **FP Cost:** 24	
   - If fully charged, it does roughly 22% more damage.
+- :heavy_check_mark: [Comet Azur](https://eldenring.wiki.fextralife.com/Comet+Azur)
+  - **Location:** Hermit Village in Mt. Gelmir: Acquired from Primeval Sorcerer Azur sitting near the cliffs in the northeast. 
+  - **FP Cost:** 40/sec
+  - When used with the Cerulean Hidden Tear Physick you can cast this continually.  15 seconds + mana bar depleation.
+  - This spell does not consume stanima.
 - :heavy_check_mark: [Cannon of Haima](https://eldenring.wiki.fextralife.com/Cannon+of+Haima)
   - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the northeast of the Liurnia of the Lakes region.
     - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
@@ -169,7 +174,7 @@ Arcane|base
 - :heavy_check_mark: [Cerulean Seed Talisman](https://eldenring.wiki.fextralife.com/Cerulean+Seed+Talisman)
   - **Location:** It can be found in the rafters of the Carian Study Hall, next to a body.
   - Cerulean Seed Talisman boosts FP restoration from Flask of Cerulean Tears by 20%.
-- [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
+- :o: [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
   - **Base Location:** Bestial Sanctum. found on the bottom level of the structure below the surrounding cliffs.
   - **+1 Location:** Sainted Hero's Grave, can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
   - **+2 Location:** Crumbling Farum Azula, Looted from a corpse on floating chunk of debris in the northern section, between Dragon Temple Lift and Dragon Temple Rooftop.
@@ -224,7 +229,7 @@ Arcane|base
 - :heavy_check_mark: [Magic-Shrouding Cracked Tear](https://eldenring.wiki.fextralife.com/Magic-Shrouding+Cracked+Tear)
   - **Location:**  Dropped by Erdtree Avatar in Minor Erdtree (Liurnia Northeast) in Northeastern Liurnia of the Lakes, east of the Mausoleum Compound Site of Grace.
   - Increases magic attacks by +20% for three minutes.
-- [Cerulean Hidden Tear](https://eldenring.wiki.fextralife.com/Cerulean+Hidden+Tear)
+- :heavy_check_mark: [Cerulean Hidden Tear](https://eldenring.wiki.fextralife.com/Cerulean+Hidden+Tear)
   - **Location:** Drops from the Ulcerated Tree Spirit at the Minor Erdtree, east of the Road of Iniquity, Mt. Gelmir, site of grace.
   - FP is not consumed by any actions that normally consume FP for 15 seconds
 - :heavy_check_mark: [Opaline Hardtear](https://eldenring.wiki.fextralife.com/Opaline+Hardtear)
