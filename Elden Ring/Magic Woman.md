@@ -234,7 +234,7 @@ Arcane|base
   - **Location:** From Road to the Manor Site of Grace, get to the bottom of the cliff (directly East) and follow the cliff's wall North. Guarded by a few Lesser Fingercreepers and one Fingercreeper.
   - Provides three minutes of +10 Intelligence.
 
-### Ashes
+### :heavy_check_mark: Ashes
 
 - :heavy_check_mark: [Mimic's Tear](https://eldenring.wiki.fextralife.com/Mimic+Tear+Ashes)
   - **Location:** Found in a chest locked behind an imp statue door in Night's Sacred Ground, Nokron, Eternal City.
