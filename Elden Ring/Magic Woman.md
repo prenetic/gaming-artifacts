@@ -24,23 +24,25 @@
 - Stay out of melee expect when pushed, then switch to Carian Slicer/Greatsword/Grandeur or a cheeky back stab/counter if able.
 - Use either Carian Regal Scepter or Lusat's Glintstone Staff for ranged combat, as needed.
 - Switch to Miséricorde when preforming melee combat.
+- Moonviel for quick enemys.
+- Most of the Carian sword abilities clip through walls.
 
 ## Attributes
 
 Name|Value
 -|-
-Vigor|50,60
-Mind|40,60
-Endurance|20,30,60
-:heavy_check_mark:Strength|10
-:heavy_check_mark:Dexterity|12
-:heavy_check_mark:Intelligence|26,52,80
+:o: Vigor|50, 60
+:o: Mind|40, 60
+:o: Endurance|20, 30, 60
+:heavy_check_mark:Strength|12
+:heavy_check_mark:Dexterity|18
+:o: Intelligence|26, 52, 80
 :heavy_check_mark:Faith|base
 :heavy_check_mark:Arcane|base
 
 - **Soft Caps** Mind (55/60), Vigor (40/60), Intelligence (20/50/80), Endurance (15/30/50).
 - Focus on increasing Mind and Intelligence as needed.
-- Endurance should be in line for mid rolls.
+- Endurance should be in line for mid rolls and enough to cast spells effectivly.
 
 
 ## Weapons / Gear
@@ -57,8 +59,15 @@ Endurance|20,30,60
 - :heavy_check_mark: [Carian Glintstone Staff](https://eldenring.wiki.fextralife.com/Carian+Glintstone+Staff)
   - **Location:** Located on a corpse in Carian Study Hall right before the second lift in Liurnia of the Lakes
   - You receive the boost to Sword Sorceries even if you are wielding it in your off-hand while not meeting the requirements for it, making it great for dual-wielding staffs.
+  - Stop using after the Carian Regal Scepter out paces it for damage. 
+- :heavy_check_mark: [Azur's Glintstone Staff](https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Staff)
+  - **Location:** Raya Lucaria Academy - Assuming you have unlocked all the shortcuts, specifically the ladder on the second floor of the Church of the Cuckoo site, fast travel to the said site and climb up the ladder. Be alert here since the upper level is guarded by a Glintstone Sorcerer and two Lazuli Sorcerers. Head towards the east side and you'll see an arch doorway at the end.  Defeat the High Page guarding the entrance on the other side of the runway, you'll find the weapon on the ground, next to the crystal formation with the inactive School of Graven Mages in it at the center of the room.
+  - Increases FP cost of only sorceries by 20%, rounded down.
+  - Gives 40 virtual dexterity towards sorceries and incantations, making it slightly more effective than the Radagon Icon. Casting speed is capped at 70 dexterity.
 
 ## :heavy_check_mark: Spells (Weapon Icon)
+
+### Primary
 
 - :heavy_check_mark: [Carian Slicer](https://eldenring.wiki.fextralife.com/Carian+Slicer)
   - **Location:** After giving the Royal House Scroll to Miriel Pastor of Vows the spell can be purchased for runes currency elden ring wiki guide 18 1,500 Runes.
@@ -77,11 +86,6 @@ Endurance|20,30,60
     - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
   - **FP Cost:* 22
   - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
-- :heavy_check_mark: [Glintstone Pebble](https://eldenring.wiki.fextralife.com/Glintstone+Pebble)
-  - **Location:** Provided as part of the Astrologer class.
-  - **FP Cost:** 7
-  - Early to mid game mana-efficent spell.  To be replaced by Glintstone Comentshard.
-  - To be replaced by Glintstone Comentshard.
 - :heavy_check_mark: [Glintstone Cometshard](https://eldenring.wiki.fextralife.com/Glintstone+Cometshard)
   - **Location:** The spell can be purchased for 12,000 Runes after you deliver the Conspectus Scroll to Miriel Pastor of Vows
   - **FP Cost:** 17  
@@ -93,16 +97,42 @@ Endurance|20,30,60
   - **Location:** Caria Manor, Dropped by Royal Knight Loretta upon defeat.
   - **FP Cost:** 24	
   - If fully charged, it does roughly 22% more damage.
+- [Loretta's Mastery](https://eldenring.wiki.fextralife.com/Loretta's+Mastery)
+  - **Location:** Dropped by Loretta, Knight of the Haligtree upon defeat.
+  - **FP Cost:** 39
+  - If fully charged, it does roughly 22% more damage.
+
+### Secondary
+
+- :heavy_check_mark: [Glintstone Pebble](https://eldenring.wiki.fextralife.com/Glintstone+Pebble)
+  - **Location:** Provided as part of the Astrologer class.
+  - **FP Cost:** 7
+  - Early to mid game mana-efficent spell.  To be replaced by Glintstone Comentshard.
+  - To be replaced by Glintstone Comentshard.
 - :heavy_check_mark: [Comet Azur](https://eldenring.wiki.fextralife.com/Comet+Azur)
   - **Location:** Hermit Village in Mt. Gelmir: Acquired from Primeval Sorcerer Azur sitting near the cliffs in the northeast. 
   - **FP Cost:** 40/sec
   - When used with the Cerulean Hidden Tear Physick you can cast this continually.  15 seconds + mana bar depleation.
-  - This spell does not consume stanima.
+  - This spell does not consume stamina.
+- :heavy_check_mark: [Rennala's Full Moon](https://eldenring.wiki.fextralife.com/Rennala's+Full+Moon)
+  - **Location:** Obtained when unlocking the Remembrance of The Full Moon Queen's power by handing it over to Enia at Roundtable Hold.
+  - **FP Cost:** 47	
+  - The Carian Regal Scepter can boost this Sorcery.
+  - layers can use Rennala's Full Moon to incarnate a full moon and launch it at foes. It dispels all sorcery that touches it, and temporarily reduces magic damage negation for those it strikes. The reduced magic damage negation on struck foes lasts for one minute and reduces the target's magic negation by 10%.
+- [Ranni's Dark Moon](https://eldenring.wiki.fextralife.com/Ranni's+Dark+Moon)
+  - **Location:** Chelona's Rise: Found in a chest at the top of the tower after unlocking the seal. See the Chelona's Rise page for details on how to unseal the tower.
+  - **FP Cost:** 57
+  - This sorcery is boosted by the Carian Regal Scepter, as well as the Snow Witch Hat.
+  - Reduces the target's magic negation by 10%. If this manages to trigger Frostbite on your target, which reduces damage negation by a further 20%, total reduction is around ~30%. Damage negation lasts for one minute.
+  - his sorcery deals magic damage, and will build Frostbite (270) on vulnerable enemies. It is possible it will apply it immediately.
 - :heavy_check_mark: [Cannon of Haima](https://eldenring.wiki.fextralife.com/Cannon+of+Haima)
   - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the northeast of the Liurnia of the Lakes region.
     - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
   - **FP Cost:** 38
   - When charged, deals (Sorcery Scaling x 3.12) magic damage.
+
+### Utility
+
 - :heavy_check_mark: [Terra Magica](https://eldenring.wiki.fextralife.com/Terra+Magica)
   - **Location:** Requires completion of the Academy Crystal Cave dungeon and taking the elevator behind the Crystalians bosses. This leads to a tower inside the academy, on the top of which a chest containing the spell can be found.
   - **FP Cost:** 20
@@ -117,6 +147,9 @@ Endurance|20,30,60
   - :heavy_check_mark: [Miséricorde](https://eldenring.wiki.fextralife.com/Misericorde)
     - **Location:** Can be looted off a corpse that can be found in the large armory room, next to the fortress of the Grafted Scion.
     - The Miséricorde has the highest critical stat of all weapons in the game, at 140.
+  - :heavy_check_mark: [Moonveil](https://eldenring.wiki.fextralife.com/Moonveil)
+    - **Location:** Obtained upon defeating the Magma Wyrm located in Gael Tunnel - Caelid.
+    - Weapon Skill: Transient Moonlight - Sheathe blade, holding it at the hip in a composed stance. Follow up with either a normal or a strong attack to draw the blade at great speed for an instant slash attack. Both attacks fire off a wave of light, matching the orientation of the blade, with normal attacks firing a horizontal & short-range wave, and strong attacks firing a vertical & long-range wave that travels along the ground. The wave of light and melee swipe deal damage independently, allowing enemies to be hit by both for increased damage when in melee range.
 
 ## :heavy_check_mark: Ash of War (Weapon Icon) 
 
@@ -151,7 +184,7 @@ Endurance|20,30,60
   - **Location:** At Raya Lucaria Academy, from the Debate Parlor site of grace, head west and turn right before going down the stairs. You should see an empty bookshelf in front of you. Hit it to dispel the illusory wall, then follow the path. Go up the ladder (after picking up Comet from the chest and the Stonesword Key from behind the altar), head east, jump over the railing, and drop down through a hole. Drop down once more to find yourself in a room with many Living Jars; the talisman is next to the crystals. The door to the right leads back to the room below the one you started in, containing multiple Raya Lucaria Sorcerers and a Giant Living Jar.
   - Graven-School Talisman raises the potency of Sorceries by 4%.
   - To be replaced by Graven-Mass Talisman.
-- [Graven-Mass Talisman](https://eldenring.wiki.fextralife.com/Graven-Mass+Talisman)
+- :heavy_check_mark: [Graven-Mass Talisman](https://eldenring.wiki.fextralife.com/Graven-Mass+Talisman)
   - **Location:** Found in a chest atop Albinauric Rise, in the east of the Consecrated Snowfield.  Bring either Fanged Imp Ashes, Bewitching Branch, or use some Crystal Darts to solve the Albinauric Rise puzzle, which requires imps to fight each other.
   - Graven-Mass Talisman raises the potency of Sorceries by 8%.
   - To replace Graven-School Talisman.
@@ -160,7 +193,7 @@ Endurance|20,30,60
 
  - :o: [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
    - :heavy_check_mark: **Base Location:** Base Talisman: Lakeside Crystal Cave: After defeating the Bloodhound Knight
-   - **+1 Location:** Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
+   - :heavy_check_mark: **+1 Location:** Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
    - **+2 Location:** Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs.
    - Cerulean Amber Medallion raises maximum FP by 7, 9, or 11% based off the variant.
 - :heavy_check_mark: [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
@@ -175,8 +208,8 @@ Endurance|20,30,60
   - **Location:** It can be found in the rafters of the Carian Study Hall, next to a body.
   - Cerulean Seed Talisman boosts FP restoration from Flask of Cerulean Tears by 20%.
 - :o: [Dragoncrest Shield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Shield+Talisman)
-  - **Base Location:** Bestial Sanctum. found on the bottom level of the structure below the surrounding cliffs.
-  - **+1 Location:** Sainted Hero's Grave, can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
+  - :heavy_check_mark: **Base Location:** Bestial Sanctum. found on the bottom level of the structure below the surrounding cliffs.
+  - :heavy_check_mark: **+1 Location:** Sainted Hero's Grave, can be found in a locked imp's room, behind the Stonesword Key fog wall. When you reach the area with the big axes stomping the ground, you need to get on the first one and jump on the ledge on the left wall.
   - **+2 Location:** Crumbling Farum Azula, Looted from a corpse on floating chunk of debris in the northern section, between Dragon Temple Lift and Dragon Temple Rooftop.
   - Reduces Physical Damage taken 10/13/17%.
 - [Dragoncrest Greatshield Talisman](https://eldenring.wiki.fextralife.com/Dragoncrest+Greatshield+Talisman)
