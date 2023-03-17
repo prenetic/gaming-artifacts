@@ -47,8 +47,6 @@ _Strength has value all the way up to 99 given the excellent scaling mechanics o
   - Looted off a corpse inside the fortress of the Grafted Scion. The body can be found resting under the large painting that's at the center of the room.
 - [Prelate's Blood Inferno Crozier](https://eldenring.wiki.fextralife.com/Prelate's+Inferno+Crozier) scales primarily with Strength and Dexterity and is a good Weapon for strong melee attacks that will fling enemies into the air.
   - Drops from a Fire Prelate wielding it inside Fort Laiedd near Seethewater Terminus Site of Grace. This drop is guaranteed once per playthrough.
-- [Whetstone Knife](https://eldenring.wiki.fextralife.com/Whetstone+Knife) can add new battle arts and affinities to weapons.
-  - Found in the southeastern area of Gatefront Ruins. There is a set of stairs leading to a small room underground where a treasure chest can be found. Inside the chest is the Whetstone Knife and Ash of War: Storm Stomp.
 - [Zweihander](https://eldenring.wiki.fextralife.com/Zweihander) scales primarily with Strength and Dexterity, and is a versatile Weapon for heavy-weight combat.
   - Can be purchased from the Isolated Merchant for 3,500 Runes. He can be found in his shack at the very west of the Weeping Peninsula.
 
@@ -77,7 +75,7 @@ _Strength has value all the way up to 99 given the excellent scaling mechanics o
 - [Omensmirk Mask](https://eldenring.wiki.fextralife.com/Omensmirk+Mask) is a Lightweight headpiece that increases Strength.
   - Dropped by a lesser Omenkiller outside of the Lower Capital Church Site of Grace in Leyndell, Royal Capital.
 
-_Heavy armor with poise above all else. Two-handing a weapon with slow swings comes with the expectation you'll trade blows, and having high poise reduces the likelihood you'll be staggered while attacking._
+_Heavy armor with poise above all else, up to the poise breakpoint of 101 at least. Two-handing a weapon with slow swings comes with the expectation you'll trade blows, and having high poise reduces the likelihood you'll be staggered while attacking._
 
 ## Talismans
 
