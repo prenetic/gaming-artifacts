@@ -132,7 +132,7 @@ _Heavy armor with poise above all else, up to the poise breakpoint of 101 at lea
 
 - [Greenburst Crystal Tear](https://eldenring.wiki.fextralife.com/Greenburst+Crystal+Tear) increases Stamina recovery speed by 15 per second for 3 minutes.
   - Dropped by the Erdtree Avatar found at the Minor Erdtree in Caelid, east of Smoldering Church.
-- [Leaded Hardtear](https://eldenring.wiki.fextralife.com/Leaded+Hardtear) acts as a pseudo-hyperarmor buff that prevents stagger from certain damage levels for 10 seconds.
+- [Leaden Hardtear](https://eldenring.wiki.fextralife.com/Leaden+Hardtear) acts as a pseudo-hyperarmor buff that prevents stagger from certain damage levels for 10 seconds.
   - Drops from Ulcerated Tree Spirit in Mt. Gelmir.
 - [Speckled Hardtear](https://eldenring.wiki.fextralife.com/Speckled+Hardtear) temporarily raises all resistances and heals all status ailments.
   - Defeat Wormface at Minor Erdtree (Altus Plateau).
