@@ -27,7 +27,7 @@
 - Moonviel for quick enemys.
 - Most of the Carian sword abilities clip through walls.
 
-## Attributes
+## :o: Attributes
 
 Name|Value
 -|-
@@ -45,9 +45,9 @@ Name|Value
 - Endurance should be in line for mid rolls and enough to cast spells effectivly.
 
 
-## Weapons / Gear
+## :heavy_check_mark: Weapons / Gear
 
-### :heavy_check_mark: Staff (Weapon Icon)
+### :heavy_check_mark: Staves (Weapon Icon)
 
 - :heavy_check_mark: [Carian Regal Scepter](https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter)
   - **Location:** Obtained when unlocking the Remembrance of The Full Moon Queen's power by handing it over to Enia at Roundtable Hold.
@@ -65,27 +65,29 @@ Name|Value
   - Increases FP cost of only sorceries by 20%, rounded down.
   - Gives 40 virtual dexterity towards sorceries and incantations, making it slightly more effective than the Radagon Icon. Casting speed is capped at 70 dexterity.
 
+### :heavy_check_mark: Weapons (Weapon Icon)
+
+### :heavy_check_mark: Armour (Weapon Icon)
+
 ## :heavy_check_mark: Spells (Weapon Icon)
 
-### Primary
+### :heavy_check_mark: Primary
 
 - :heavy_check_mark: [Carian Slicer](https://eldenring.wiki.fextralife.com/Carian+Slicer)
   - **Location:** After giving the Royal House Scroll to Miriel Pastor of Vows the spell can be purchased for runes currency elden ring wiki guide 18 1,500 Runes.
   - **FP Cost:** 4
   - Has the highest magic damage per FP ratio out of all spells.
-- :heavy_check_mark: [Carian Greatsword](https://eldenring.wiki.fextralife.com/Carian+Greatsword)
-  - **Location:** Can be purchased from Miriel, Pastor of Vows at the Church of Vows for runes currency elden ring wiki guide 18 10,000 Runes.
-  - **FP Cost:** 12	
-  - Considered a Carian Sword Sorcery.
+- :heavy_check_mark: [Adula's Moonblade](https://eldenring.wiki.fextralife.com/Adula's+Moonblade)
+  - **Location:** Dropped by the Glintstone Dragon Adula located at the Cathedral of Manus Celes.
+  - **FP Cost:** 22	
+  - Considered a Carian Sword Sorcery and a Cold Sorcery.
+  - Deals Magic Damage.  The initial slash inflicts (Sorcery Scaling x 1.33) magic damage before resistances.  The projectile inflicts (Sorcery Scaling x 1.89) magic damage before resistances.
+  - Inflicts Frostbite.  The initial slash inflicts 90, while the projectile inflicts 35.
+  - It's possible to hit an enemy with both the slash of the blade and the projectile, maximizing damage and frostbite buildup. However, this only works on the first cast. Subsequent chain casts can't apply both sources of damage.
 - :heavy_check_mark: [Carian Piercer](https://eldenring.wiki.fextralife.com/Carian+Piercer)
   - **Location:** Caria Manor, dropped by a Teardrop Scarab in an area behind the gardens, to the east.
   - **FP Cost:** 17
   - Considered a Carian Sword Sorcery.
-- :heavy_check_mark: [Gavel of Haima](https://eldenring.wiki.fextralife.com/Gavel+of+Haima)
-  - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the Liurnia of the Lakes region.
-    - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
-  - **FP Cost:* 22
-  - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
 - :heavy_check_mark: [Glintstone Cometshard](https://eldenring.wiki.fextralife.com/Glintstone+Cometshard)
   - **Location:** The spell can be purchased for 12,000 Runes after you deliver the Conspectus Scroll to Miriel Pastor of Vows
   - **FP Cost:** 17  
@@ -97,12 +99,18 @@ Name|Value
   - **Location:** Caria Manor, Dropped by Royal Knight Loretta upon defeat.
   - **FP Cost:** 24	
   - If fully charged, it does roughly 22% more damage.
-- [Loretta's Mastery](https://eldenring.wiki.fextralife.com/Loretta's+Mastery)
+- :heavy_check_mark: [Loretta's Mastery](https://eldenring.wiki.fextralife.com/Loretta's+Mastery)
   - **Location:** Dropped by Loretta, Knight of the Haligtree upon defeat.
   - **FP Cost:** 39
   - If fully charged, it does roughly 22% more damage.
+- :heavy_check_mark: [Ranni's Dark Moon](https://eldenring.wiki.fextralife.com/Ranni's+Dark+Moon)
+  - **Location:** Chelona's Rise: Found in a chest at the top of the tower after unlocking the seal. See the Chelona's Rise page for details on how to unseal the tower.
+  - **FP Cost:** 57
+  - This sorcery is boosted by the Carian Regal Scepter, as well as the Snow Witch Hat.
+  - Reduces the target's magic negation by 10%. If this manages to trigger Frostbite on your target, which reduces damage negation by a further 20%, total reduction is around ~30%. Damage negation lasts for one minute.
+  - his sorcery deals magic damage, and will build Frostbite (270) on vulnerable enemies. It is possible it will apply it immediately.
 
-### Secondary
+### :heavy_check_mark: Secondary
 
 - :heavy_check_mark: [Glintstone Pebble](https://eldenring.wiki.fextralife.com/Glintstone+Pebble)
   - **Location:** Provided as part of the Astrologer class.
@@ -119,19 +127,22 @@ Name|Value
   - **FP Cost:** 47	
   - The Carian Regal Scepter can boost this Sorcery.
   - layers can use Rennala's Full Moon to incarnate a full moon and launch it at foes. It dispels all sorcery that touches it, and temporarily reduces magic damage negation for those it strikes. The reduced magic damage negation on struck foes lasts for one minute and reduces the target's magic negation by 10%.
-- [Ranni's Dark Moon](https://eldenring.wiki.fextralife.com/Ranni's+Dark+Moon)
-  - **Location:** Chelona's Rise: Found in a chest at the top of the tower after unlocking the seal. See the Chelona's Rise page for details on how to unseal the tower.
-  - **FP Cost:** 57
-  - This sorcery is boosted by the Carian Regal Scepter, as well as the Snow Witch Hat.
-  - Reduces the target's magic negation by 10%. If this manages to trigger Frostbite on your target, which reduces damage negation by a further 20%, total reduction is around ~30%. Damage negation lasts for one minute.
-  - his sorcery deals magic damage, and will build Frostbite (270) on vulnerable enemies. It is possible it will apply it immediately.
 - :heavy_check_mark: [Cannon of Haima](https://eldenring.wiki.fextralife.com/Cannon+of+Haima)
   - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the northeast of the Liurnia of the Lakes region.
     - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
   - **FP Cost:** 38
   - When charged, deals (Sorcery Scaling x 3.12) magic damage.
+- :heavy_check_mark: [Carian Greatsword](https://eldenring.wiki.fextralife.com/Carian+Greatsword)
+  - **Location:** Can be purchased from Miriel, Pastor of Vows at the Church of Vows for runes currency elden ring wiki guide 18 10,000 Runes.
+  - **FP Cost:** 12	
+  - Considered a Carian Sword Sorcery.
+- :heavy_check_mark: [Gavel of Haima](https://eldenring.wiki.fextralife.com/Gavel+of+Haima)
+  - **Location:** Can be found in the chest at the top of the Converted Fringe Tower in the Liurnia of the Lakes region.
+    - **Note:** _Bring Thops the :heavy_check_mark: Academy Glintstone Key.  This gives the Erudition gesture, used to solve the tower puzzle._
+  - **FP Cost:* 22
+  - If dual wielding staves, you can bypass the single follow-up attack and chain this repeatedly by casting from one hand and then the other, alternating each time. 
 
-### Utility
+### :heavy_check_mark: Utility
 
 - :heavy_check_mark: [Terra Magica](https://eldenring.wiki.fextralife.com/Terra+Magica)
   - **Location:** Requires completion of the Academy Crystal Cave dungeon and taking the elevator behind the Crystalians bosses. This leads to a tower inside the academy, on the top of which a chest containing the spell can be found.
@@ -170,9 +181,9 @@ Name|Value
     - **Location:** Roundtable Hold - Drops from Rogier.
     - Increases Intelligence by 3.
 
-## Talismans (Chest Icon)
+## :o: Talismans (Chest Icon)
 
-### Primary
+### :heavy_check_mark: Primary
 
 - :heavy_check_mark: [Radagon Icon](https://eldenring.wiki.fextralife.com/Radagon+Icon)
   - **Location:** Raya Lucaria Academy, the talisman is inside a treasure chest on the second floor near the Debate Parlor Site of Grace. From the Site of Grace, head north into the courtyard.  Make two hard rights, hugging the building's wall, and then jump over the fence -- you should see a ladder in front of you. Climb up the ladder and head through the broken glass window. The treasure chest is in the north section.
@@ -189,12 +200,12 @@ Name|Value
   - Graven-Mass Talisman raises the potency of Sorceries by 8%.
   - To replace Graven-School Talisman.
 
-### Secondary
+### :heavy_check_mark: Secondary
 
- - :o: [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
+ - :heavy_check_mark: [Cerulean Amber Medallion](https://eldenring.wiki.fextralife.com/Cerulean+Amber+Medallion)
    - :heavy_check_mark: **Base Location:** Base Talisman: Lakeside Crystal Cave: After defeating the Bloodhound Knight
    - :heavy_check_mark: **+1 Location:** Castle Sol: Found on a corpse hanging by a wooden ledge above the southern walls of the castle. This area is accessed by climbing a ladder behind the church in the southeast and following the walls west. Beware the very powerful dual sword knight guarding the area. He can teleport behind you and perform long combos.
-   - **+2 Location:** Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs.
+   - :heavy_check_mark: **+2 Location:** Lunar Estate Ruins: Found in a treasure chest in an underground room northwest of the ruins. Look for an Imp Statue pressed up against the wall. This requires one Stonesword Key. The stairs are also concealed by an illusory floor. Simply hit the floor next to the Imp Statue to reveal the stairs.
    - Cerulean Amber Medallion raises maximum FP by 7, 9, or 11% based off the variant.
 - :heavy_check_mark: [Stargazer Heirloom](https://eldenring.wiki.fextralife.com/Stargazer+Heirloom)
   - **Location:** Found on a body lying at the top of the Divine Tower of Liurnia.
@@ -218,7 +229,7 @@ Name|Value
 - :heavy_check_mark: [Gold Scarab](https://eldenring.wiki.fextralife.com/Golden+Scarab)
   - **Location:** Dropped by the Cleanrot Knight (Sickle) & Cleanrot Knight (Spear) dual boss found in the Abandoned Cave. It can be accessed by going east from the Smoldering Wall Site of Grace, and walking across the canyon by using tree branches.
   - Gold Scarab increases Rune acquisition by 20%.
-- [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
+- :heavy_check_mark: [Silver Scarab](https://eldenring.wiki.fextralife.com/Silver+Scarab)
   - **Location:** Found in a chest in Hidden Path to the Haligtree. In the large central room, there is a broken section of railing. There, you can drop down to an invisible platform, and walk to a small room. The chest is past an Illusory Wall
   - Silver Scarab raises Item Discovery by 75.
 - :no_entry: [Magic Scorpion Charm](https://eldenring.wiki.fextralife.com/Magic+Scorpion+Charm)
@@ -227,7 +238,7 @@ Name|Value
   - Failed to acquire before Seluvis' death.
 
 
-## Critical Items
+## :heavy_check_mark: Critical Items
 
 ### :heavy_check_mark: Memory Stones (Skull Icon)
 
@@ -257,7 +268,7 @@ Name|Value
 - :heavy_check_mark: [Conspectus Scroll](https://eldenring.wiki.fextralife.com/Conspectus+Scroll)
   - **Location:** Great Hall of the Raya Lucaria Academy. From the doorway, go left and you'll find a room, there is a body that you can loot to find the scroll. 
 
-### Wondrous Physick
+### :heavy_check_mark: Wondrous Physick
 
 - :heavy_check_mark: [Magic-Shrouding Cracked Tear](https://eldenring.wiki.fextralife.com/Magic-Shrouding+Cracked+Tear)
   - **Location:**  Dropped by Erdtree Avatar in Minor Erdtree (Liurnia Northeast) in Northeastern Liurnia of the Lakes, east of the Mausoleum Compound Site of Grace.
