@@ -66,8 +66,28 @@ Name|Value
   - Gives 40 virtual dexterity towards sorceries and incantations, making it slightly more effective than the Radagon Icon. Casting speed is capped at 70 dexterity.
 
 ### :heavy_check_mark: Weapons (Weapon Icon)
+- :heavy_check_mark: [Miséricorde](https://eldenring.wiki.fextralife.com/Misericorde)
+  - **Location:** Stormveil Castle, can be looted off a corpse that can be found in the large armory room, next to the fortress of the Grafted Scion.  You will need to use the Stonesword Key on the imp statue to dispel the white fog that's blocking the doorway.
+  - The Miséricorde has the highest critical stat of all weapons in the game, at 140.
+- :heavy_check_mark: [Moonveil](https://eldenring.wiki.fextralife.com/Moonveil)
+  - **Location:** Obtained upon defeating the Magma Wyrm located in Gael Tunnel - Caelid.
+  - **Weapon Skill:** Transient Moonlight - Sheathe blade, holding it at the hip in a composed stance. Follow up with either a normal or a strong attack to draw the blade at great speed for an instant slash attack. Both attacks fire off a wave of light, matching the orientation of the blade, with normal attacks firing a horizontal & short-range wave, and strong attacks firing a vertical & long-range wave that travels along the ground. The wave of light and melee swipe deal damage independently, allowing enemies to be hit by both for increased damage when in melee range. 
+  - Causes Blood loss Buildup: hemmorage (50).
 
 ### :heavy_check_mark: Armour (Weapon Icon)
+- :heavy_check_mark: [Queen's Crescent Crown](https://eldenring.wiki.fextralife.com/Queen's+Crescent+Crown)
+  - **Location:** Upon vanquishing Rennala, Queen of the Full Moon the Queen's Crescent Crown Helm becomes available for purchase at Enia in Roundtable Hold for runes currency elden ring wiki guide 18 7,000.
+  - Increases Intelligence by 3.
+  - Lightweight armor that boost Vitality Resistance.
+- :heavy_check_mark: [Carian Knight Armor](https://eldenring.wiki.fextralife.com/Carian+Knight+Armor)
+  - **Location:** You can find the Carian Knight Set in Raya Lucaria Academy
+  - Wearing it for RP purposes
+- :heavy_check_mark: [Spellblade's Gloves](https://eldenring.wiki.fextralife.com/Spellblade's+Gloves)
+  - **Location:** Roundtable Hold - Drops from Rogier.
+  - Increases weapon Skills that deal Magic Damage by 2%
+- :heavy_check_mark: [Carian Knight Greaves](https://eldenring.wiki.fextralife.com/Carian+Knight+Greaves)
+  - **Location:** You can find the Carian Knight Set in Raya Lucaria Academy
+  - Wearing it for RP purposes
 
 ## :heavy_check_mark: Spells (Weapon Icon)
 
